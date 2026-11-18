@@ -7,7 +7,7 @@
 
 Заходите ко мне на репозиторий <https://github.com/Krevetka322/GIT_PR10_Nogovitsin>
 
-
+ 1 | 2 | 3 |
 ---|---|---|
  X | O | X |
   | X | O |
